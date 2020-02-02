@@ -4,4 +4,4 @@ The STL file for the 2020 Skills Canada Spaghetti Bridge weight-loading platform
 # Files
 Included in this repository are:
 - [STL files](https://github.com/Harmony-Lab/2020-loading-platform/blob/master/Spaghetti%20Bridge%20Loading%20Platform%202020%20.stl)
-- [Blender files](https://github.com/Harmony-Lab/Vex_2019_Shooter/tree/master/Blender%20Files)
+- [Blender files](https://github.com/Harmony-Lab/2020-loading-platform/blob/master/skills%20Logo4.blend)
